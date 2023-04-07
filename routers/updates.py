@@ -2,7 +2,6 @@
 from typing import Union
 
 # FastApi
-
 from fastapi import HTTPException
 from fastapi import status
 from fastapi import Path
